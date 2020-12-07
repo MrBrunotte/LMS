@@ -83,6 +83,7 @@ _**Registered** (Student) User:_
 
 * When a teacher adds a new student, the course must be preselected.
 * Date check so that modules, activities and courses is added with the correct date.
+* Move the HTML ul-element outside of the li-elements in the for-loops in the code base.
 
 ## **TECHNOLOGIES USED**
 
