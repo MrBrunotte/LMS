@@ -1,5 +1,5 @@
 <h1 align="center">
-    LMS - a MVC .NET core project
+    LMS - a MVC .NET core 3.0 project
 </h1>
 
 ![LMS](https://github.com/MrBrunotte/LMS/blob/master/LMS/wwwroot/images/teacherOverview.JPG)
