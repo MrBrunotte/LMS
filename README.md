@@ -92,7 +92,6 @@ _**Registered** (Student) User:_
 * [VS2019](https://visualstudio.microsoft.com/vs/)
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-* [Django 3.0.4](https://www.djangoproject.com/)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 * [Bootstrap 4](https://getbootstrap.com/)
 * [Git](https://git-scm.com/)
